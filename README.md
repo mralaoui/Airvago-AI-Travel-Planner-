@@ -1,8 +1,8 @@
-# Airvago.ai — AI Travel Planner ✈️
+# Airvago.com — AI Travel Planner ✈️
 
-[![Website](https://img.shields.io/badge/Visit-Airvago.ai-1abc9c?style=for-the-badge)](https://airvago.ai)
+[![Website](https://img.shields.io/badge/Visit-Airvago.com-1abc9c?style=for-the-badge)](https://airvago.com)
 
-**Airvago.ai** is an AI-powered travel planning platform that helps travelers create personalized itineraries, find cheap flights, and optimize their budgets — all in one place.
+**Airvago.com** is an AI-powered travel planning platform that helps travelers create personalized itineraries, find cheap flights, and optimize their budgets — all in one place.
 
 ## 🌍 Features
 - AI Travel Planner — generate instant custom itineraries  
@@ -11,18 +11,18 @@
 - Risk Radar — travel safely with real-time risk alerts  
 - Visa Checker — get entry requirements instantly  
 
-## 💡 Why Airvago.ai?
+## 💡 Why Airvago.com?
 Trusted by over **10M travelers** worldwide with a **4.8/5 rating**.  
 Plan your next adventure with AI precision and save time, money, and stress.
 
-👉 **[Visit Airvago.ai](https://airvago.ai)** — start planning your next trip today.
+👉 **[Visit Airvago.com](https://airvago.com)** — start planning your next trip today.
 
 ---
 
 ### 🔗 Useful Links
-- Website: [https://airvago.ai](https://airvago.ai)  
+- Website: [https://airvago.com](https://airvago.com)  
 - Instagram: [https://instagram.com/airvago.ai](https://instagram.com/airvago.ai)  
-- Contact: contact@airvago.ai  
+- Contact: contact@airvago.com  
 
 ---
 
